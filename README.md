@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-<!--
-**polinakiseleva/polinakiseleva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ## I'm а  Python Development!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=polinakiseleva&show_icons=true&theme=gruvbox_light)](https://github.com/VedishchevAnton?tab=repositories)
+
+<!--
+**polinakiseleva/polinakiseleva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=polinakiseleva&show_icons=true&theme=radical)
 Here are some ideas to get you started:
