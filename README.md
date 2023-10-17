@@ -17,15 +17,10 @@
 ## 📫 Contact me
 Get in touch wit me!
 
-:speech_balloon: <a href="https://techhub.social/@k9n">Connect with me on Mastodon</a>
+✈️ <a href="https://t.me/poli4ka_k">Chat with me on Telegram</a>
 
-:bird: <a href="https://t.me/poli4ka_k">Chat with me on Telegram</a>
+:e-mail: <a href="mailto:polinakiseleva4@gmail.com">Send an e-mail</a>
 
-:e-mail: <a href="mailto:mail@k9n.dev">Send an e-mail</a>
-
-:globe_with_meridians: <a href="https://k9n.dev">Checkout my website</a>
-
-:memo: <a href="https://k9n.dev/blog">Checkout my blog</a>
 
 <!--
 **polinakiseleva/polinakiseleva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
